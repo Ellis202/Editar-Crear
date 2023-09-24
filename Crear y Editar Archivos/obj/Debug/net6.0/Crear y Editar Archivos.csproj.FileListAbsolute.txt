@@ -1,0 +1,14 @@
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.AssemblyInfoInputs.cache
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.AssemblyInfo.cs
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.csproj.CoreCompileInputs.cache
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\bin\Debug\net6.0\Crear y Editar Archivos.exe
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\bin\Debug\net6.0\Crear y Editar Archivos.deps.json
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\bin\Debug\net6.0\Crear y Editar Archivos.runtimeconfig.json
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\bin\Debug\net6.0\Crear y Editar Archivos.dll
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\bin\Debug\net6.0\Crear y Editar Archivos.pdb
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.dll
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\refint\Crear y Editar Archivos.dll
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.pdb
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\Crear y Editar Archivos.genruntimeconfig.cache
+C:\Users\JENIM\source\repos\Crear y Editar Archivos\Crear y Editar Archivos\obj\Debug\net6.0\ref\Crear y Editar Archivos.dll
